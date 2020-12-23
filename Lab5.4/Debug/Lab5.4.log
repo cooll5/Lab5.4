@@ -1,0 +1,5 @@
+﻿  Lab5.4.cpp
+D:\Student\Project\Алгоритмізація&програмування\Obj\Lab5.4\Lab5.4\Lab5.4.cpp(57,42): error C2660: S3: функция не принимает 2 аргументов
+D:\Student\Project\Алгоритмізація&програмування\Obj\Lab5.4\Lab5.4\Lab5.4.cpp(29,8): message : см. объявление "S3"
+D:\Student\Project\Алгоритмізація&програмування\Obj\Lab5.4\Lab5.4\Lab5.4.cpp(58,42): error C2660: S4: функция не принимает 2 аргументов
+D:\Student\Project\Алгоритмізація&програмування\Obj\Lab5.4\Lab5.4\Lab5.4.cpp(38,8): message : см. объявление "S4"
